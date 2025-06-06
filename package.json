@@ -27,7 +27,7 @@
     "react-dom": "^18.2.0",
     "unico-webframe": "3.19.2",
     "util": "^0.12.4",
-    "webpack-dev-server": "^4.9.3"
+    "webpack-dev-server": "^5.2.1"
   },
   "plugins": [
     "@babel/proposal-class-properties",
